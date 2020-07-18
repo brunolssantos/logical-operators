@@ -1,2 +1,2 @@
 # logical-operators
-Estudo dos operadores lógicos
+:bulb: Estudo dos operadores lógicos
